@@ -1,22 +1,22 @@
 <p align="center">
-  <h1 align="center">Meet Judith 🐈‍⬛! </h1>
+  <h1 align="center">Meet Judith 🐈‍⬛ </h1>
   <h3 align="center">Peace ♡ i'm Juliana</h3>
 </p>
  
 ---
  
-<p align="center">
-  <h2>About Me</h2>
+<p align="right">
+  <h2>𝄞𝄢 About Me</h2>
 </p>
  
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
       <ul>
-        <li>𓇼 From Brazil, studying Computer Science.</li>
-        <li>🖌 Between logic and art — I create.</li>
-        <li>🀥 Passion for Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</li>
-        <li>🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</li>
+        𓇼 From Brazil, studying Computer Science.</li>
+        🖌 Between logic and art — I create.</li>
+        🀥 Passion for Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</li>
+        🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</li>
       </ul>
     </td>
     <td width="30%" valign="top" align="right">
@@ -38,7 +38,7 @@
 ---
  
 <p align="center">
-  <h2>Languages & Tools I’ve Worked With</h2>
+  <h2>🗣 Languages & Tools I’ve Worked With</h2>
 </p>
  
 <p align="center">
@@ -54,7 +54,7 @@
 ---
  
 <p align="center">
-  <h2>GitHub Stats</h2>
+  <h2>ⓘ GitHub Stats</h2>
 </p>
  
 <p align="center">
@@ -65,7 +65,7 @@
 ---
  
 <p align="center">
-  <h2>♨ Recent Projects</h2>
+  <h2>🗁 Recent Projects</h2>
 </p>
  
 <p align="center">
