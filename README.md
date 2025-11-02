@@ -18,7 +18,7 @@
     <!-- Coluna da Imagem (Lateral) - 30% de largura -->
     <td width="30%" valign="top">
       <!-- PLACEHOLDER: Substitua pelo link da sua imagem -->
-      <img src="[LINK DIRETO DA SUA IMAGEM DE PERFIL/AVATAR]" alt="Seu Avatar" width="100%">
+      <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
     </td>
     
     <!-- Coluna do Texto da Bio e Badges - 70% de largura -->
