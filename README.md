@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]">
+  <a href="https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:[juulianact27@gmail.com]">
@@ -7,7 +7,7 @@
   </a>
   </p>
 
-  ## Estatísticas do GitHub
+  ##
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -19,7 +19,7 @@
 
 ---
 
-## Minhas Tecnologias (Tech Stack )
+## 
 
 <p align="center">
   <!-- Linguagens de Programação -->
@@ -31,7 +31,7 @@
 
 ---
 
-## Contribuições Recentes
+##
 
 <!-- GitHub Streak Stats Card -->
 <p align="center">
