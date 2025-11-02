@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Meet Judith 🐈‍⬛ </h1>
-  <h3 align="center">Peace ♡ i'm Juliana</h3>
+  <h2 align="center">Peace ♡ i'm Juliana</h3>
 </p>
  
 ---
@@ -22,7 +22,7 @@
   <tr>
     <td width="70%" valign="top">
       <p>𓇼 From Brazil, studying Computer Science.</p>
-      <p>🖌 Between logic and art — I create.</p>
+      <p>✎ Between logic and art — I create.</p>
       <p>🀥 Passion for Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</p>
       <p>🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</p>
     </td>
@@ -35,7 +35,7 @@
 ---
  
 <p align="center">
-  <h2>🗣 Languages & Tools I’ve Worked With</h2>
+  <h2>𓇢𓆸 Languages & Tools I’ve Worked With</h2>
 </p>
  
 <p align="center">
