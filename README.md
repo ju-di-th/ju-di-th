@@ -6,11 +6,14 @@
 ---
 
 <p align="center">
+  <!-- Badges com tema Vermelho/Vinho/Preto -->
   <a href="https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <!-- Cor Vinho Escuro (722F37 ) para o LinkedIn -->
+    <img src="https://img.shields.io/badge/LinkedIn-722F37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:juulianact27@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <!-- Cor Vermelho Escuro (8B0000 ) para o Email -->
+    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
@@ -39,13 +42,17 @@
 </p>
  
 <p align="center">
-  <!-- Linguagens de Programação -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
+  <!-- Linguagens de Programação com tema Vermelho/Vinho/Preto -->
+  <!-- Python: Vinho Escuro (722F37 ) -->
+  <img src="https://img.shields.io/badge/Python-722F37?style=for-the-badge&logo=python&logoColor=white&" alt="Python Badge"/>
+  <!-- Java: Vermelho Escuro (8B0000 ) -->
+  <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white&" alt="Java Badge"/>
+  <!-- HTML5: Preto (000000 ) -->
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&" alt="HTML5 Badge"/>
+  <!-- Node.js: Vinho Escuro (722F37 ) -->
+  <img src="https://img.shields.io/badge/Node.js-722F37?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
   <!-- Adicione mais tecnologias aqui, se desejar -->
-  <!-- Exemplo: <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&" alt="React Badge"/> -->
+  <!-- Exemplo: <img src="https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white&" alt="React Badge"/> -->
 </p>
  
 ---
@@ -55,7 +62,7 @@
 </p>
  
 <p align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card: Mantendo o tema escuro (dark ) para combinar com o preto -->
   <img src="https://github-readme-stats.vercel.app/api?username=ju-di-th&show_icons=true&theme=dark&" alt="Estatísticas do GitHub" />
 </p>
  
@@ -66,7 +73,7 @@
 </p>
  
 <p align="center">
-  <!-- GitHub Streak Stats Card -->
+  <!-- GitHub Streak Stats Card: Mantendo o tema escuro (dark ) para combinar com o preto -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ju-di-th&theme=dark&hide_border=true" alt="Estatísticas de Streak do GitHub" />
 </p>
  
