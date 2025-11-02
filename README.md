@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Meet Judith 🐈‍⬛ </h1>
+  <h1 align="center">Meet Judith 𓃦 </h1>
   <h2 align="center">Peace ♡ i'm Juliana</h3>
 </p>
  
@@ -9,11 +9,11 @@
   <!-- Badges com tema Vermelho/Vinho/Preto -->
   <a href="https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&">
     <!-- Cor Vinho Escuro (722F37 ) para o LinkedIn -->
-    <img src="https://img.shields.io/badge/LinkedIn-722F37?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:juulianact27@gmail.com">
     <!-- Cor Vermelho Escuro (8B0000 ) para o Email -->
-    <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
