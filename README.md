@@ -5,28 +5,11 @@
  
 ---
  
-<p align="right">
-  <h2>𝄞𝄢 About Me</h2>
+<p align="center">
+  <h1>✨ Follow Me On:</h1>
 </p>
- 
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <ul>
-        𓇼 From Brazil, studying Computer Science.</li>
-        🖌 Between logic and art — I create.</li>
-        🀥 Passion for Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</li>
-        🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</li>
-      </ul>
-    </td>
-    <td width="30%" valign="top" align="right">
-      <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
-    </td>
-  </tr>
-</table>
- 
-<p align="right">
-  𓃠 Follow Me On:
+
+<p align="center">
   <a href="https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -34,7 +17,25 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
+
+<p align="right">
+  <h2>𝄞𝄢 About Me</h2>
+</p>
  
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <p>𓇼 From Brazil, studying Computer Science.</p>
+      <p>🖌 Between logic and art — I create.</p>
+      <p>🀥 Passion for Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</p>
+      <p>🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</p>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
+    </td>
+  </tr>
+</table>
+
 ---
  
 <p align="center">
