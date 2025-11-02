@@ -4,10 +4,6 @@
 </p>
  
 ---
- 
-<p align="center">
-  <h1>✨ Follow Me On:</h1>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&">
