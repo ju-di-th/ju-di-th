@@ -42,17 +42,12 @@
 </p>
  
 <p align="center">
-  <!-- Linguagens de Programação com tema Vermelho/Vinho/Preto -->
-  <!-- Python: Vinho Escuro (722F37 ) -->
-  <img src="https://img.shields.io/badge/Python-722F37?style=for-the-badge&logo=python&logoColor=white&" alt="Python Badge"/>
-  <!-- Java: Vermelho Escuro (8B0000 ) -->
-  <img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=java&logoColor=white&" alt="Java Badge"/>
-  <!-- HTML5: Preto (000000 ) -->
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&" alt="HTML5 Badge"/>
-  <!-- Node.js: Vinho Escuro (722F37 ) -->
-  <img src="https://img.shields.io/badge/Node.js-722F37?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge"/>
-  <!-- Adicione mais tecnologias aqui, se desejar -->
-  <!-- Exemplo: <img src="https://img.shields.io/badge/React-8B0000?style=for-the-badge&logo=react&logoColor=white&" alt="React Badge"/> -->
+  <!-- Linguagens de Programação -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=B03A2E" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=B03A2E" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=B03A2E" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=B03A2E" alt="Node.js Badge"/>
+>
 </p>
  
 ---
@@ -62,8 +57,11 @@
 </p>
  
 <p align="center">
-  <!-- GitHub Stats Card: Mantendo o tema escuro (dark ) para combinar com o preto -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ju-di-th&show_icons=true&theme=dark&" alt="Estatísticas do GitHub" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ju-di-th&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=B03A2E&icon_color=B03A2E&text_color=EAEAEA&rank_label=Rank" alt="Estatísticas do GitHub" />
+  
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-di-th&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=B03A2E&icon_color=B03A2E&text_color=EAEAEA" alt="Linguagens Mais Usadas" />
 </p>
  
 ---
@@ -74,7 +72,7 @@
  
 <p align="center">
   <!-- GitHub Streak Stats Card: Mantendo o tema escuro (dark ) para combinar com o preto -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ju-di-th&theme=dark&hide_border=true" alt="Estatísticas de Streak do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ju-di-th&theme=dark&hide_border=true&background=000000&ring=B03A2E&fire=B03A2E&sideNums=EAEAEA&sideLabels=EAEAEA&dates=EAEAEA" alt="Estatísticas de Streak do GitHub" />
 </p>
  
 <!-- Fim do README -->
