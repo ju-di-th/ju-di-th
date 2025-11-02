@@ -26,7 +26,7 @@
 </table>
  
 <p align="right">
-  𓃠 **Follow Me On:**
+  𓃠 Follow Me On:
   <a href="https://www.linkedin.com/in/juliana-teixeira-76a0b1295?utm_source=share&utm_campaign=share_via&">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -60,8 +60,6 @@
 <p align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=ju-di-th&show_icons=true&theme=dark&" alt="Estatísticas do GitHub" />
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-di-th&layout=compact&theme=" alt="Linguagens Mais Usadas" />
 </p>
  
 ---
