@@ -7,9 +7,8 @@
 <!-- 
     =================================================================================================================================
     INSTRUÇÕES FINAIS:
-    1. Substitua [LINK DIRETO DA SUA IMAGEM DE PERFIL/AVATAR] pelo link da imagem que você quer na lateral.
-    2. Substitua [LINK PARA A ILUSTRAÇÃO X] pelos links diretos das suas imagens hospedadas publicamente.
-    3. O e-mail e o LinkedIn já foram inseridos com base no seu último input.
+    1. Substitua [LINK PARA A ILUSTRAÇÃO X] pelos links diretos das suas imagens hospedadas publicamente.
+    2. O link da sua imagem de perfil já está inserido (Linha 21).
     =================================================================================================================================
 -->
 
@@ -17,7 +16,7 @@
   <tr>
     <!-- Coluna da Imagem (Lateral) - 30% de largura -->
     <td width="30%" valign="top">
-      <!-- PLACEHOLDER: Substitua pelo link da sua imagem -->
+      <!-- IMAGEM DE PERFIL JÁ INSERIDA -->
       <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
     </td>
     
@@ -82,4 +81,5 @@
 </p>
 
 <!-- Fim do README -->
+
 
