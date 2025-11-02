@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
-</p>
- 
-<p align="center">
-  <h1 align="center">Meet Judith here 🔥 !</h1>
-  <h3 align="center">Namaste 🙏 I'm Juliana</h3>
+  <h1 align="center">Meet Judith 🐈‍⬛! </h1>
+  <h3 align="center">Peace ♡ i'm Juliana</h3>
 </p>
  
 ---
@@ -24,7 +20,7 @@
       </ul>
     </td>
     <td width="30%" valign="top" align="right">
-      <img src="[LINK PARA A ILUSTRAÇÃO X]" alt="Ilustração de perfil" width="100%">
+      <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
     </td>
   </tr>
 </table>
