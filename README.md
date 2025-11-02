@@ -4,8 +4,6 @@
   <h1 align="center">Meet Judith 𓃦 </h1>
   <h2 align="center">Peace ♡ i'm Juliana</h3>
 </p>
- 
----
 
 <p align="center">
   <!-- Badges com tema Vermelho/Vinho/Preto -->
@@ -16,6 +14,9 @@
   <a href="mailto:juulianact27@gmail.com">
     <!-- Cor Vermelho Escuro (8B0000 ) para o Email -->
     <img src="https://img.shields.io/badge/Email-D35400?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.instagram.com/_ju.diith?igsh=MW1rc3ZidjNlZjZkaQ==">
+    <img src="https://img.shields.io/badge/Instagram-C0392B?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
