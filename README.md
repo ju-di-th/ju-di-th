@@ -1,4 +1,6 @@
 <p align="center">
+<img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/Lixie.jpeg" alt="Uma das ilustrações que fiz" width="100%">
+<p align="center">
   <h1 align="center">Meet Judith 𓃦 </h1>
   <h2 align="center">Peace ♡ i'm Juliana</h3>
 </p>
