@@ -28,8 +28,8 @@
   <tr>
     <td width="70%" valign="top">
       <p>𓇼 From Brazil, studying Computer Science.</p>
-      <p>✎ Between logic and art — I create.</p>
-      <p>🀥 Passion for Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</p>
+      <p>🀥 Interest in Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</p>
+      <p>✎ Also an artist, working in both traditional and digital mediums. </p>
       <p>🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</p>
     </td>
     <td width="30%" valign="top" align="right">
