@@ -27,10 +27,10 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <p>𓇼 From Brazil, studying Computer Science.</p>
-      <p>🀥 Interest in Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</p>
-      <p>✎ Also an artist, working in both traditional and digital mediums. </p>
-      <p>🗒 I have a lot to learn — I will change, I will grow, I will not stay the same.</p>
+      <p>• From Brazil, studying Computer Science.</p>
+      <p>• Interest in Computer Graphics, Computational Physics, Game Dev, Calculus and Front-End development.</p>
+      <p>• Also an artist, working in both traditional and digital mediums. </p>
+      <p>• I have a lot to learn — I will change, I will grow, I will not stay the same.</p>
     </td>
     <td width="30%" valign="top" align="right">
       <img src="https://github.com/ju-di-th/ju-di-th-assets/raw/main/eddiezinho.jpg" alt="Uma das ilustrações que fiz" width="100%">
